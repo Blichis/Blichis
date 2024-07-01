@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Blichis
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning Angular, node.js , postgreSQL, and git
+- 📫 How to reach me
